@@ -1,2 +1,2 @@
 #!/bib/bash
-gcc -c $CFILEw
+gcc -c $CFILE
